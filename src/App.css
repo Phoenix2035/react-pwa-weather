@@ -9,10 +9,9 @@ body,
   color: #1e2432;
 }
 
-
 .main-container {
   height: 100%;
-   background: url("../public/assets/background.png");
+  background: url("../public/img/bg.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -25,7 +24,7 @@ body,
 
 .search {
   outline: none;
-  padding: 20px 7%;
+  padding: 20px 4%;
   border: none;
   border-radius: 20px;
   margin-bottom: 5%;
